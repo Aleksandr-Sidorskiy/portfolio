@@ -1,20 +1,4 @@
 @charset "UTF-8";
-.container {
-  width: 1200px;
-  margin: 0 auto;
-  padding: 0 15px;
-  outline: 1px solid #212121;
-}
-
-.normal {
-  padding-top: 0px;
-}
-
-.section {
-  padding-top: 40px;
-  padding-bottom: 40px;
-}
-
 *,
 *::before,
 *::after {
@@ -69,4 +53,4 @@ ul {
 a {
   text-decoration: none;
   color: var(--text-secondary);
-}/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=reset.css.map */
