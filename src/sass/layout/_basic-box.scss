@@ -1,0 +1,8 @@
+// Стилі базового блоку
+.basic-box{
+background-color:#D9D9D9 ;
+
+@media screen and(min-width: 480px){
+    width: 40vw;
+}
+}
